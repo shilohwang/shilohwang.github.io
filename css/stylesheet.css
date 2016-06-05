@@ -1,0 +1,48 @@
+/*body {
+    padding-top: 0px;
+}
+*/
+
+.carousel-inner img {
+    height: 400px;
+}
+
+.navbar-custom .nav>li>a {
+    color: rgba(255, 255, 255, 1);
+}
+
+.navbar-custom {
+    border: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 0;
+}
+
+#carousel-example-generic > .container {
+    position: absolute;
+    top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+.navbar-brand {
+    padding: 0px 50px 0px 0px;
+}
+
+.animals .col-md-4 img {
+    margin: 0 auto;
+}
+
+.animals img:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.animals p {
+    padding: 0 50px;
+}
+
+footer p {
+    padding: 50px 0;
+}
